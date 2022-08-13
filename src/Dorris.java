@@ -13,7 +13,7 @@ public class Dorris {
 
         if (time >= 6 & time <= 12){
             System.out.println("Good morning Ebele");
-        } else if (time >=12 & time <= 16) {
+        } if (time >=12 & time <= 16) {
             System.out.println( " Good afternoon ");
         }else {
             System.out.println( " Good evening");
